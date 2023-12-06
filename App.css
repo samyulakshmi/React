@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.header{
+  text-align: center;
+  background-color: lightgray;
+  margin: 20px;
+  padding: 10px;
+}
+
+.picture{
+  width: 150px;
+  height: 200px;
+}
+
+.btn{
+  padding: 15px 35px;
+  background-color: black;
+  color: white;
+  display: block;
+}
+
+.products{
+  display: inline-block;
+}
+.product{
+  padding : 20px;
+  margin: 10px;
+  background-color: skyblue;
+  width:fit-content;
+  display: inline-block;
+}
+
+.data{
+  text-align: center;
+  font-size: 25px;
+  background-color: blanchedalmond;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  font-style: italic;
+  position: position;
+  
+}
